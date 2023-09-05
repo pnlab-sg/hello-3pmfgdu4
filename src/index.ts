@@ -1,4 +1,4 @@
 async function bootstrap() {
-  console.log('Hello');
+  console.log('Hello node');
 }
 bootstrap();
